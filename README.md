@@ -28,19 +28,19 @@ This app allows users to manage QRIS stickers by generating, saving, and exporti
 
 ### 1. Home
 
-![Home](assets/screenshots/1.jpg)
+![Home](assets/screenshots/1.png)
 
 ### 2. Input QR Code Using Raw Data
 
-![Input QR Code Using Raw Data](assets/screenshots/3.jpg)
+![Input QR Code Using Raw Data](assets/screenshots/3.png)
 
 ### 3. Input QR Code Using PNG
 
-![Export QR Code as PNG with Caption](assets/screenshots/4.jpg)
+![Export QR Code as PNG with Caption](assets/screenshots/4.png)
 
 ### 4. Export QR Code as PNG with Caption (Title and Information)
 
-![Input QR Code Using PNG](assets/screenshots/2.jpg)
+![Input QR Code Using PNG](assets/screenshots/2.png)
 
 ### 5. Exported PNG (with Title and Information)
 
