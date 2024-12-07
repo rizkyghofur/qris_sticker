@@ -30,7 +30,7 @@ This app allows users to manage QRIS stickers by generating, saving, and exporti
 
 ![Screenshot of the app](assets/screenshots/screenshot.png)
 
-### 5. Exported PNG (with Title and Information)
+### 2. Exported PNG (with Title and Information)
 
 ![Exported PNG](assets/screenshots/5.jpeg)
 
