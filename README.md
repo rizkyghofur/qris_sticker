@@ -39,7 +39,7 @@ This app allows users to manage QRIS stickers by generating, saving, and exporti
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-repo/qris-sticker-app.git
-cd qris-sticker-app
+git clone https://github.com/rizkyghofur/qris_sticker.git
+cd qris_sticker
 flutter pub get
 ```
